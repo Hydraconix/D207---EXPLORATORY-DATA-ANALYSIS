@@ -1,2 +1,3 @@
 # WGU-D207---EXPLORATORY-DATA-ANALYSIS
 WGU D207 - EXPLORATORY DATA ANALYSIS
+Performance Assessment for WGU 207 - Exploratory Data Analysis
